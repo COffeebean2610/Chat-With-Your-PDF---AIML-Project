@@ -1,4 +1,4 @@
-# 📄 Chat with your PDF
+# 📄 Chat with your PDF 
 
 An AI-powered document analysis tool that allows you to have interactive conversations with your PDF documents using local models.
 
